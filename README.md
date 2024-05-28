@@ -1,2 +1,4 @@
 # Loan-eligibility-checker
 A ML model for credit risk assessment
+
+This project focused on advancing credit risk assessment through a loan eligibility checker, employing the XGBoost machine learning algorithm. This tool aimed to predict credit risk for individuals and small businesses, offering a more efficient alternative to traditional credit scoring methods. Leveraging a substantial dataset of up to 140,000 entries, the study addressed limitations in previous models by implementing strategies such as regularization, feature importance assessment, and early stopping. The research emphasized the benefits, objectives, and scope, aiming to revolutionize credit risk prediction, improve decision-making processes, and contribute to fair lending practices. The final deliverable is an enhanced loan eligibility checker, accompanied by comprehensive documentation and usage recommendations, ultimately fostering transparency and efficiency in lending activities.
